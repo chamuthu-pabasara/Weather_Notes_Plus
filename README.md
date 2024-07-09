@@ -10,23 +10,23 @@ This project provides users with up-to-date weather information for their curren
 ## Technologies Used
 
 List the technologies, frameworks, and APIs used in your project. For example:
-  HTML, CSS, JavaScript
-  Weather API (e.g., OpenWeatherMap)
+ * HTML, CSS, JavaScript
+ * Weather API (e.g., OpenWeatherMap)
 
 ## Features
 
-  Automatically detects and displays weather information based on the user's current location using geolocation.
-  Allows users to search for weather conditions in any city worldwide by entering the city name.
-  Display current weather conditions including temperature, humidity, wind speed, etc.
-  Provide a forecast for the upcoming days.
-  Responsive design for seamless usage on desktop and mobile devices.
+ * Automatically detects and displays weather information based on the user's current location using geolocation.
+ * Allows users to search for weather conditions in any city worldwide by entering the city name.
+ * Display current weather conditions including temperature, humidity, wind speed, etc.
+ * Provide a forecast for the upcoming days.
+ * Responsive design for seamless usage on desktop and mobile devices.
 
 ## Installation
 To run the Weather Forecasting Website locally:
 
-  Clone this repository.
-  Navigate to the project directory.
-  Open index.html in your web browser.
+ * Clone this repository.
+ * Navigate to the project directory.
+ * Open index.html in your web browser.
 
 ## Contributing
 We welcome contributions to enhance the Weather Forecasting Website. If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
